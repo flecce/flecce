@@ -1,5 +1,7 @@
 ### Hi there, I'm Fabiano 👋
 
+Full-stack developer (.NET, Angular and more)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
