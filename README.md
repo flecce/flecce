@@ -26,4 +26,4 @@ Full-stack developer (.NET, Angular and more)
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/www.linkedin.com/in/fabiano-lecce
+[linkedin]: https://linkedin.com/in/fabiano-lecce
