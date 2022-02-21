@@ -13,10 +13,3 @@ Full-stack developer (.NET, Angular and more)
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-<br />
-
-### Where you can found me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/fabiano-lecce
