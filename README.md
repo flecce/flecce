@@ -2,7 +2,6 @@
 
 - 🔭 I’m Fabiano Lecce. Full-stack developer (.NET, Angular and more)
 - 📫 How to reach me: https://flecce.github.io/
-- 😄 Pronouns: he/him/his
 - 💻 .NET, C#, Sql Server, Angular, Typescript
 - 🛠️ VS, VS Code, Azure DevOps, Atlassian Suite
                                                                                                              
