@@ -5,4 +5,4 @@
 - 💻 .NET, C#, Sql Server, MySQL, Angular, Typescript
 - 🛠️ VS, VS Code, Azure DevOps, Atlassian Suite
                                                                                                              
-![Fabiano's github stats](https://github-readme-stats.vercel.app/api/?username=flecce&count_private=true&showicons=true)
+![Fabiano's Github Stats](https://github-readme-stats.vercel.app/api/?username=flecce&count_private=true&showicons=true&theme=dark&show_icons=true)
